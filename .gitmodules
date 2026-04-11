@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "gageRR"]
 	path = gageRR
-	url = https://github.com/warrenjonahb/gagerr
+	url = https://github.com/cran/gageRR
